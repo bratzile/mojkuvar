@@ -1,0 +1,2176 @@
+{
+  "Sastojci": [
+    {
+      "sastojakID": "1",
+      "sastojakNAME": "Chicken",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "2",
+      "sastojakNAME": "Salmon",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "3",
+      "sastojakNAME": "Beef",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "4",
+      "sastojakNAME": "Pork",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "5",
+      "sastojakNAME": "Avocado",
+      "category": "fruits",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "9",
+      "sastojakNAME": "Apple Cider Vinegar",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "10",
+      "sastojakNAME": "Asparagus",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "11",
+      "sastojakNAME": "Aubergine",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "14",
+      "sastojakNAME": "Bacon",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "15",
+      "sastojakNAME": "Baking Powder",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "16",
+      "sastojakNAME": "Balsamic Vinegar",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "17",
+      "sastojakNAME": "Basil",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "19",
+      "sastojakNAME": "Basmati Rice",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "20",
+      "sastojakNAME": "Bay Leaf",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "23",
+      "sastojakNAME": "Beef Brisket",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "24",
+      "sastojakNAME": "Beef Fillet",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "26",
+      "sastojakNAME": "Beef Stock",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "29",
+      "sastojakNAME": "Black Pepper",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "31",
+      "sastojakNAME": "Borlotti Bean",
+      "category": "legumes",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "33",
+      "sastojakNAME": "Bramley Apple",
+      "category": "fruits",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "34",
+      "sastojakNAME": "Brandy",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "35",
+      "sastojakNAME": "Bread",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "37",
+      "sastojakNAME": "Broccoli",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "38",
+      "sastojakNAME": "Brown Lentil",
+      "category": "legumes",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "39",
+      "sastojakNAME": "Brown Rice",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "40",
+      "sastojakNAME": "Brown Sugar",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "41",
+      "sastojakNAME": "Butter",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "43",
+      "sastojakNAME": "Cacao",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "44",
+      "sastojakNAME": "Cajun",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "46",
+      "sastojakNAME": "Cannellini Bean",
+      "category": "legumes",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "47",
+      "sastojakNAME": "Cardamom",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "49",
+      "sastojakNAME": "Carrot",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "50",
+      "sastojakNAME": "Cashew Nut",
+      "category": "nuts",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "52",
+      "sastojakNAME": "Caster Sugar",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "53",
+      "sastojakNAME": "Cayenne Pepper",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "54",
+      "sastojakNAME": "Celeriac",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "55",
+      "sastojakNAME": "Celery",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "58",
+      "sastojakNAME": "Charlotte Potato",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "59",
+      "sastojakNAME": "Cheddar Cheese",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "60",
+      "sastojakNAME": "Cheese",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "62",
+      "sastojakNAME": "Cherry Tomato",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "63",
+      "sastojakNAME": "Chestnut Mushroom",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "65",
+      "sastojakNAME": "Chicken Breast",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "67",
+      "sastojakNAME": "Chicken Leg",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "68",
+      "sastojakNAME": "Chicken Stock",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "70",
+      "sastojakNAME": "Chicken Thigh",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "71",
+      "sastojakNAME": "Chickpea",
+      "category": "legumes",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "72",
+      "sastojakNAME": "Chili Powder",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "74",
+      "sastojakNAME": "Chilli",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "76",
+      "sastojakNAME": "Chinese Broccoli",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "77",
+      "sastojakNAME": "Chocolate Chip",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "80",
+      "sastojakNAME": "Chopped Tomato",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "81",
+      "sastojakNAME": "Chorizo",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "83",
+      "sastojakNAME": "Cilantro",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "84",
+      "sastojakNAME": "Cinnamon",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "87",
+      "sastojakNAME": "Clove",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "89",
+      "sastojakNAME": "Cocoa",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "90",
+      "sastojakNAME": "Coconut Cream",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "91",
+      "sastojakNAME": "Coconut Milk",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "94",
+      "sastojakNAME": "Condensed Milk",
+      "category": "dairy",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "95",
+      "sastojakNAME": "Coriander",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "99",
+      "sastojakNAME": "Cornstarch",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "100",
+      "sastojakNAME": "Cream",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "103",
+      "sastojakNAME": "Cucumber",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "104",
+      "sastojakNAME": "Cumin",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "106",
+      "sastojakNAME": "Curry Powder",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "107",
+      "sastojakNAME": "Dark Brown Sugar",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "109",
+      "sastojakNAME": "Dark Soy Sauce",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "110",
+      "sastojakNAME": "Demerara Sugar",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "111",
+      "sastojakNAME": "Diced Tomato",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "113",
+      "sastojakNAME": "Dill",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "115",
+      "sastojakNAME": "Double Cream",
+      "category": "dairy",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "116",
+      "sastojakNAME": "Dried Oregano",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "117",
+      "sastojakNAME": "Dry White Wine",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "119",
+      "sastojakNAME": "Egg Plant",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "123",
+      "sastojakNAME": "Egg",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "126",
+      "sastojakNAME": "Extra Virgin Olive Oil",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "128",
+      "sastojakNAME": "Farfalle",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "130",
+      "sastojakNAME": "Fennel Bulb",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "131",
+      "sastojakNAME": "Fennel Seed",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "132",
+      "sastojakNAME": "Fenugreek",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "133",
+      "sastojakNAME": "Feta",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "134",
+      "sastojakNAME": "Fish Sauce",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "135",
+      "sastojakNAME": "Flaked Almond",
+      "category": "nuts",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "137",
+      "sastojakNAME": "Flour",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "139",
+      "sastojakNAME": "Floury Potato",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "142",
+      "sastojakNAME": "French Lentil",
+      "category": "legumes",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "143",
+      "sastojakNAME": "Fresh Basil",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "144",
+      "sastojakNAME": "Fresh Thyme",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "147",
+      "sastojakNAME": "Full Fat Yogurt",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "148",
+      "sastojakNAME": "Garam Masala",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "149",
+      "sastojakNAME": "Garlic",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "151",
+      "sastojakNAME": "Garlic Powder",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "153",
+      "sastojakNAME": "Ghee",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "154",
+      "sastojakNAME": "Ginger",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "158",
+      "sastojakNAME": "Golden Syrup",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "159",
+      "sastojakNAME": "Gouda Cheese",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "160",
+      "sastojakNAME": "Granulated Sugar",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "162",
+      "sastojakNAME": "Greek Yogurt",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "163",
+      "sastojakNAME": "Green Bean",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "165",
+      "sastojakNAME": "Green Chilli",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "166",
+      "sastojakNAME": "Green Olive",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "169",
+      "sastojakNAME": "Ground Almond",
+      "category": "nuts",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "170",
+      "sastojakNAME": "Ground Cumin",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "171",
+      "sastojakNAME": "Ground Ginger",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "172",
+      "sastojakNAME": "Gruyère",
+      "category": "dairy",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "176",
+      "sastojakNAME": "Heavy Cream",
+      "category": "dairy",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "177",
+      "sastojakNAME": "Honey",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "178",
+      "sastojakNAME": "Horseradish",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "181",
+      "sastojakNAME": "Ice Cream",
+      "category": "dairy",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "183",
+      "sastojakNAME": "Italian Seasoning",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "184",
+      "sastojakNAME": "Jalapeno",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "185",
+      "sastojakNAME": "Jasmine Rice",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "187",
+      "sastojakNAME": "Kale",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "189",
+      "sastojakNAME": "King Prawn",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "190",
+      "sastojakNAME": "Kosher Salt",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "191",
+      "sastojakNAME": "Lamb",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "192",
+      "sastojakNAME": "Lamb Loin Chop",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "193",
+      "sastojakNAME": "Lamb Mince",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "196",
+      "sastojakNAME": "Leek",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "197",
+      "sastojakNAME": "Lemon",
+      "category": "fruits",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "198",
+      "sastojakNAME": "Lemon Juice",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "199",
+      "sastojakNAME": "Lemon Zest",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "201",
+      "sastojakNAME": "Lettuce",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "202",
+      "sastojakNAME": "Lime",
+      "category": "fruits",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "204",
+      "sastojakNAME": "Macaroni",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "205",
+      "sastojakNAME": "Mackerel",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "207",
+      "sastojakNAME": "Marjoram",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "211",
+      "sastojakNAME": "Milk",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "214",
+      "sastojakNAME": "Mint",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "216",
+      "sastojakNAME": "Mozzarella Ball",
+      "category": "dairy",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "217",
+      "sastojakNAME": "Muscovado Sugar",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "218",
+      "sastojakNAME": "Mushroom",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "219",
+      "sastojakNAME": "Mustard",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "220",
+      "sastojakNAME": "Mustard Powder",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "221",
+      "sastojakNAME": "Mustard Seed",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "222",
+      "sastojakNAME": "Nutmeg",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "223",
+      "sastojakNAME": "Oil",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "224",
+      "sastojakNAME": "Olive Oil",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "227",
+      "sastojakNAME": "Onion",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "228",
+      "sastojakNAME": "Orange",
+      "category": "fruits",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "229",
+      "sastojakNAME": "Orange Zest",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "230",
+      "sastojakNAME": "Oregano",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "231",
+      "sastojakNAME": "Oyster Sauce",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "232",
+      "sastojakNAME": "Paprika",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "234",
+      "sastojakNAME": "Parmesan",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "237",
+      "sastojakNAME": "Parsley",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "238",
+      "sastojakNAME": "Peanut Butter",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "240",
+      "sastojakNAME": "Peanut",
+      "category": "nuts",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "241",
+      "sastojakNAME": "Pea",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "242",
+      "sastojakNAME": "Pecorino",
+      "category": "dairy",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "243",
+      "sastojakNAME": "Penne Rigate",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "244",
+      "sastojakNAME": "Pepper",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "245",
+      "sastojakNAME": "Pine Nut",
+      "category": "nuts",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "246",
+      "sastojakNAME": "Pitted Black Olive",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "247",
+      "sastojakNAME": "Plain Chocolate",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "248",
+      "sastojakNAME": "Plain Flour",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "249",
+      "sastojakNAME": "Plum Tomato",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "252",
+      "sastojakNAME": "Potato Starch",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "253",
+      "sastojakNAME": "Potato",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "254",
+      "sastojakNAME": "Prawn",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "255",
+      "sastojakNAME": "Puff Pastry",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "256",
+      "sastojakNAME": "Raspberry Jam",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "263",
+      "sastojakNAME": "Red Onion",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "264",
+      "sastojakNAME": "Red Pepper",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "266",
+      "sastojakNAME": "Red Wine",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "268",
+      "sastojakNAME": "Rice",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "269",
+      "sastojakNAME": "Rice Noodle",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "272",
+      "sastojakNAME": "Rigatoni",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "273",
+      "sastojakNAME": "Rocket",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "274",
+      "sastojakNAME": "Rolled Oat",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "276",
+      "sastojakNAME": "Saffron",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "277",
+      "sastojakNAME": "Sage",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "278",
+      "sastojakNAME": "Sake",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "280",
+      "sastojakNAME": "Salsa",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "281",
+      "sastojakNAME": "Salt",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "283",
+      "sastojakNAME": "Sausage",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "284",
+      "sastojakNAME": "Sea Salt",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "288",
+      "sastojakNAME": "Sesame Seed",
+      "category": "nuts",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "289",
+      "sastojakNAME": "Shallot",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "293",
+      "sastojakNAME": "Smoked Paprika",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "295",
+      "sastojakNAME": "Sour Cream",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "296",
+      "sastojakNAME": "Soy Sauce",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "298",
+      "sastojakNAME": "Spaghetti",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "299",
+      "sastojakNAME": "Spinach",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "301",
+      "sastojakNAME": "Spring Onion",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "302",
+      "sastojakNAME": "Squash",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "304",
+      "sastojakNAME": "Strawberry",
+      "category": "fruits",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "305",
+      "sastojakNAME": "Sugar",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "307",
+      "sastojakNAME": "Sunflower Oil",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "313",
+      "sastojakNAME": "Thyme",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "315",
+      "sastojakNAME": "Tomato Ketchup",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "316",
+      "sastojakNAME": "Tomato Puree",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "317",
+      "sastojakNAME": "Tomato",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "319",
+      "sastojakNAME": "Tuna",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "320",
+      "sastojakNAME": "Turmeric",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "322",
+      "sastojakNAME": "Turnip",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "323",
+      "sastojakNAME": "Vanilla",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "324",
+      "sastojakNAME": "Vanilla Extract",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "325",
+      "sastojakNAME": "Veal",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "327",
+      "sastojakNAME": "Vegetable Oil",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "328",
+      "sastojakNAME": "Vegetable Stock",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "332",
+      "sastojakNAME": "Vinegar",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "333",
+      "sastojakNAME": "Water",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "335",
+      "sastojakNAME": "White Fish",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "337",
+      "sastojakNAME": "White Vinegar",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "338",
+      "sastojakNAME": "White Wine",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "339",
+      "sastojakNAME": "Whole Milk",
+      "category": "dairy",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "340",
+      "sastojakNAME": "Whole Wheat",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "342",
+      "sastojakNAME": "Worcestershire Sauce",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "343",
+      "sastojakNAME": "Yogurt",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "344",
+      "sastojakNAME": "Zucchini",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "346",
+      "sastojakNAME": "Cream Cheese",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "347",
+      "sastojakNAME": "Icing Sugar",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "349",
+      "sastojakNAME": "Caramel",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "351",
+      "sastojakNAME": "Tagliatelle",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "352",
+      "sastojakNAME": "Fettuccine",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "354",
+      "sastojakNAME": "Corn Flour",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "355",
+      "sastojakNAME": "Mussel",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "357",
+      "sastojakNAME": "Monkfish",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "360",
+      "sastojakNAME": "Squid",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "361",
+      "sastojakNAME": "Fish Stock",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "363",
+      "sastojakNAME": "Black Olive",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "366",
+      "sastojakNAME": "Duck",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "371",
+      "sastojakNAME": "Linguine Pasta",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "374",
+      "sastojakNAME": "Crusty Bread",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "376",
+      "sastojakNAME": "Clam",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "377",
+      "sastojakNAME": "Passata",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "378",
+      "sastojakNAME": "Rapeseed Oil",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "380",
+      "sastojakNAME": "Lamb Leg",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "381",
+      "sastojakNAME": "Lamb Shoulder",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "382",
+      "sastojakNAME": "Apricot",
+      "category": "fruits",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "383",
+      "sastojakNAME": "Butternut Squash",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "384",
+      "sastojakNAME": "Couscous",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "387",
+      "sastojakNAME": "Minced Beef",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "388",
+      "sastojakNAME": "Turkey Mince",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "389",
+      "sastojakNAME": "Barbeque Sauce",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "390",
+      "sastojakNAME": "Sweetcorn",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "393",
+      "sastojakNAME": "Fennel",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "394",
+      "sastojakNAME": "Red Wine Vinegar",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "396",
+      "sastojakNAME": "Rosemary",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "397",
+      "sastojakNAME": "Butter Bean",
+      "category": "legumes",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "398",
+      "sastojakNAME": "Pinto Bean",
+      "category": "legumes",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "399",
+      "sastojakNAME": "Tomato Sauce",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "401",
+      "sastojakNAME": "Mascarpone",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "402",
+      "sastojakNAME": "Mozzarella",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "403",
+      "sastojakNAME": "Ricotta",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "405",
+      "sastojakNAME": "Dried Apricot",
+      "category": "fruits",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "406",
+      "sastojakNAME": "Caper",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "407",
+      "sastojakNAME": "Banana",
+      "category": "fruits",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "408",
+      "sastojakNAME": "Raspberry",
+      "category": "fruits",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "409",
+      "sastojakNAME": "Blueberry",
+      "category": "fruits",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "410",
+      "sastojakNAME": "Walnut",
+      "category": "nuts",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "411",
+      "sastojakNAME": "Pecan Nut",
+      "category": "nuts",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "412",
+      "sastojakNAME": "Maple Syrup",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "416",
+      "sastojakNAME": "Milk Chocolate",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "417",
+      "sastojakNAME": "Dark Chocolate",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "418",
+      "sastojakNAME": "Pumpkin",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "423",
+      "sastojakNAME": "Peach",
+      "category": "fruits",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "424",
+      "sastojakNAME": "Yellow Pepper",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "425",
+      "sastojakNAME": "Green Pepper",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "426",
+      "sastojakNAME": "Courgette",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "428",
+      "sastojakNAME": "Chestnut",
+      "category": "nuts",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "429",
+      "sastojakNAME": "Wild Mushroom",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "431",
+      "sastojakNAME": "Paneer",
+      "category": "dairy",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "433",
+      "sastojakNAME": "Lentil",
+      "category": "legumes",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "435",
+      "sastojakNAME": "Kidney Bean",
+      "category": "legumes",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "437",
+      "sastojakNAME": "Tahini",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "440",
+      "sastojakNAME": "Cabbage",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "441",
+      "sastojakNAME": "Shiitake Mushroom",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "442",
+      "sastojakNAME": "Mirin",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "443",
+      "sastojakNAME": "Sesame Seed Oil",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "444",
+      "sastojakNAME": "Baguette",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "448",
+      "sastojakNAME": "Ham",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "449",
+      "sastojakNAME": "Oyster",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "450",
+      "sastojakNAME": "Stout",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "454",
+      "sastojakNAME": "Haddock",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "456",
+      "sastojakNAME": "Brussels Sprout",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "457",
+      "sastojakNAME": "Raisin",
+      "category": "fruits",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "458",
+      "sastojakNAME": "Currant",
+      "category": "fruits",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "459",
+      "sastojakNAME": "Custard",
+      "category": "dairy",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "462",
+      "sastojakNAME": "Blackberry",
+      "category": "fruits",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "463",
+      "sastojakNAME": "Hazelnut",
+      "category": "nuts",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "469",
+      "sastojakNAME": "Apricot Jam",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "470",
+      "sastojakNAME": "Marzipan",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "471",
+      "sastojakNAME": "Almond",
+      "category": "nuts",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "474",
+      "sastojakNAME": "White Flour",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "475",
+      "sastojakNAME": "Yeast",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "478",
+      "sastojakNAME": "Cherry",
+      "category": "fruits",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "480",
+      "sastojakNAME": "Treacle",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "481",
+      "sastojakNAME": "Oatmeal",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "482",
+      "sastojakNAME": "Oat",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "488",
+      "sastojakNAME": "Apple",
+      "category": "fruits",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "489",
+      "sastojakNAME": "Goats Cheese",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "490",
+      "sastojakNAME": "Prosciutto",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "492",
+      "sastojakNAME": "Brie",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "494",
+      "sastojakNAME": "Chive",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "495",
+      "sastojakNAME": "Pear",
+      "category": "fruits",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "496",
+      "sastojakNAME": "White Chocolate",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "497",
+      "sastojakNAME": "Star Anise",
+      "category": "spices",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "500",
+      "sastojakNAME": "Desiccated Coconut",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "501",
+      "sastojakNAME": "Frozen Pea",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "502",
+      "sastojakNAME": "Minced Pork",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "505",
+      "sastojakNAME": "Dijon Mustard",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "506",
+      "sastojakNAME": "Tabasco Sauce",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "507",
+      "sastojakNAME": "Canola Oil",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "508",
+      "sastojakNAME": "Cod",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "512",
+      "sastojakNAME": "Ground Beef",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "514",
+      "sastojakNAME": "Paella Rice",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "515",
+      "sastojakNAME": "Scotch Bonnet",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "516",
+      "sastojakNAME": "Oxtail",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "517",
+      "sastojakNAME": "Broad Bean",
+      "category": "legumes",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "518",
+      "sastojakNAME": "Red Snapper",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "519",
+      "sastojakNAME": "Malt Vinegar",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "520",
+      "sastojakNAME": "Rice Vinegar",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "522",
+      "sastojakNAME": "Tofu",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "525",
+      "sastojakNAME": "Scallion",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "526",
+      "sastojakNAME": "Sichuan Pepper",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "528",
+      "sastojakNAME": "Starch",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "533",
+      "sastojakNAME": "Bean Sprout",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "534",
+      "sastojakNAME": "Noodle",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "536",
+      "sastojakNAME": "Dark Rum",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "537",
+      "sastojakNAME": "Light Rum",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "538",
+      "sastojakNAME": "Rum",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "541",
+      "sastojakNAME": "White Wine Vinegar",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "542",
+      "sastojakNAME": "Smoked Salmon",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "546",
+      "sastojakNAME": "Almond Milk",
+      "category": "dairy",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "548",
+      "sastojakNAME": "Allspice",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "550",
+      "sastojakNAME": "Almond Extract",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "552",
+      "sastojakNAME": "Tripe",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "553",
+      "sastojakNAME": "Goat Meat",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "554",
+      "sastojakNAME": "Black Bean",
+      "category": "legumes",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "555",
+      "sastojakNAME": "Anchovy Fillet",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "565",
+      "sastojakNAME": "Sweet Potato",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "566",
+      "sastojakNAME": "Bread Roll",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "567",
+      "sastojakNAME": "Bun",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "569",
+      "sastojakNAME": "Ground Pork",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "570",
+      "sastojakNAME": "Pork Chop",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "572",
+      "sastojakNAME": "Yellow Onion",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "576",
+      "sastojakNAME": "Mayonnaise",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "577",
+      "sastojakNAME": "Sriracha",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "578",
+      "sastojakNAME": "Rhubarb",
+      "category": "fruits",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "579",
+      "sastojakNAME": "Pita Bread",
+      "category": "grains",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "580",
+      "sastojakNAME": "Bulgur Wheat",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "581",
+      "sastojakNAME": "Quinoa",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "586",
+      "sastojakNAME": "Iceberg Lettuce",
+      "category": "vegetables",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "588",
+      "sastojakNAME": "Cheese Slice",
+      "category": "dairy",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "589",
+      "sastojakNAME": "Shortening",
+      "category": "pantry",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "593",
+      "sastojakNAME": "Powdered Sugar",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "594",
+      "sastojakNAME": "Kielbasa",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "596",
+      "sastojakNAME": "Sauerkraut",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "597",
+      "sastojakNAME": "Caraway Seed",
+      "category": "spices",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "598",
+      "sastojakNAME": "Herring",
+      "category": "meat",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "599",
+      "sastojakNAME": "Jam",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "601",
+      "sastojakNAME": "Sushi Rice",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "602",
+      "sastojakNAME": "Fig",
+      "category": "fruits",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "603",
+      "sastojakNAME": "Cider",
+      "category": "pantry",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "604",
+      "sastojakNAME": "Beetroot",
+      "category": "vegetables",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "605",
+      "sastojakNAME": "Sardine",
+      "category": "meat",
+      "availableInSerbia": true
+    },
+    {
+      "sastojakID": "606",
+      "sastojakNAME": "Ciabatta",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "607",
+      "sastojakNAME": "Buckwheat",
+      "category": "grains",
+      "availableInSerbia": false
+    },
+    {
+      "sastojakID": "608",
+      "sastojakNAME": "Prune",
+      "category": "fruits",
+      "availableInSerbia": false
+    }
+  ]
+}

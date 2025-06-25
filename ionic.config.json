@@ -1,0 +1,7 @@
+{
+  "name": "receptomat",
+  "type": "react-vite",
+  "integrations": {
+    "capacitor": {}
+  }
+}
